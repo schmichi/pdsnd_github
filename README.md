@@ -15,4 +15,8 @@ bikeshare_2.py
 ### Credits
 Forked from https://github.com/udacity/pdsnd_github.git 
 
+### Software
+Download Git here: https://git-scm.com/downloads
+
+
 
