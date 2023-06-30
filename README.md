@@ -13,7 +13,6 @@ Simulating workflows to refactor previous project BikeShare using Git and GitHub
 bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Forked from https://github.com/udacity/pdsnd_github.git 
 
 
